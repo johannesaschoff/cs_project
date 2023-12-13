@@ -5,7 +5,7 @@ WeLink is a shared mobility assistant designed to provide live mobility data for
 
 ## Technology Stack
 - Python
-- OpenAI Assistant API
+- [OpenAI Assistant API](https://platform.openai.com/docs/assistants/how-it-works)
 - [Shared Mobility API](https://opentransportdata.swiss/en/dataset/sharedmobility)
 - APIs for accessing shared mobility data
 
