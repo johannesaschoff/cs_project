@@ -3,7 +3,7 @@
 ## Introduction
 WeLink is a shared mobility assistant designed to provide live mobility data for the city of St. Gallen. This application not only allows users to search for real-time shared mobility options but also links them to relevant rental apps. Integrating OpenAI's chat assistant, WeLink offers an interactive and informative experience for users seeking mobility solutions.
 
-(images/dashboard_1.png)
+![Dashboard Image](images/dashboard_1.png)
 
 ## Technology Stack
 - Python
